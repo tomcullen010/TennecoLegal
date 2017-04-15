@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>Tenneco Contract</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Tenneco contract review request for legal team</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-12 14:54:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>988fab02134e32008ac858a12244b0de</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Tenneco Contract</sys_name>
+        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_update_name>sys_template_988fab02134e32008ac858a12244b0de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-13 12:30:54</sys_updated_on>
+        <table>x_snc_tenneco_cont_contracts</table>
+        <template>payment_schedule=Monthly^terms_and_conditions=&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut varius dolor. Cras ac arcu eu velit aliquam pretium. Fusce imperdiet, velit sit amet posuere mattis, odio augue sagittis purus, non dictum enim magna sit amet lacus. Sed accumsan nibh lacus, in pretium diam. Ut iaculis elit dui, a laoreet mauris. Sed nec ante sit amet neque pulvinar mattis vel id dolor. Cras semper euismod diam, id vulputate enim ornare vitae. Mauris mauris nunc, posuere a viverra vitae, commodo sit amet lectus.&lt;/p&gt; &lt;p style="text-align: justify; font-size: 11px; line-height: 14px; margin: 0px 0px 14px; padding: 0px; color: #000000; font-family: Arial,Helvetica,sans; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"&gt;Vestibulum id lorem magna, id iaculis orci. Pellentesque aliquam erat at elit adipiscing hendrerit. Nunc non interdum nisi. Praesent bibendum justo eu lorem blandit rhoncus. In hac habitasse platea dictumst. Donec ultrices nulla quis mi facilisis ut mollis orci cursus. Pellentesque porta hendrerit velit, eu aliquam augue mollis eget. Cras arcu elit, luctus et mattis sit amet, blandit ac metus. Nulla lectus erat, euismod a ornare eget, gravida et ante. Proin dapibus orci eu purus tristique adipiscing dapibus ipsum dapibus. Sed vel augue id massa commodo dignissim in in eros. In est felis, suscipit eu blandit eu, venenatis vel velit.&lt;/p&gt; &lt;p style="text-align: justify; font-size: 11px; line-height: 14px; margin: 0px 0px 14px; padding: 0px; color: #000000; font-family: Arial,Helvetica,sans; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;"&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla facilisi. Nunc turpis purus, pellentesque quis auctor nec, pharetra vel enim. Mauris porta, nunc et sollicitudin vestibulum, quam lectus interdum sem, et luctus erat arcu in erat. Aenean sapien libero, malesuada non molestie quis, imperdiet posuere quam. Curabitur vestibulum nunc quis elit posuere et vulputate dui malesuada. Aenean sed ipsum a nibh ornare commodo non eu arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras egestas mattis mauris, ut volutpat erat ultricies ut. Donec augue lectus, fringilla eget commodo eu, dictum at urna. Mauris porta tristique diam a elementum. Sed ullamcorper interdum adipiscing. Nullam consectetur laoreet nulla vitae lacinia. Integer tincidunt, est eu rutrum euismod, lacus arcu tempus ante, vitae rutrum dui ante ut sapien. Quisque vitae massa quis ipsum suscipit facilisis id sit amet neque. Nunc tempor, arcu vel imperdiet congue, arcu ipsum consectetur ipsum, eu bibendum risus risus vel neque.&lt;/p&gt;^assigned_to=5d5ca4334f657a002d1d958f0310c7d4^license_type=enterprise^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>true</client>
+        <comments/>
+        <condition>!current.isNewRecord() &amp;&amp; (new global.Workflow().hasWorkflow(current))</condition>
+        <form_action>true</form_action>
+        <form_button>false</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>true</form_link>
+        <hint/>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <name>Show Workflow</name>
+        <onclick>showWorkflowContext()</onclick>
+        <order>100</order>
+        <script><![CDATA[// Show the workflow context in a new window
+function showWorkflowContext() {
+   var id = g_form.getUniqueValue();
+   var url = new GlideURL('context_workflow.do');
+   url.addParam('sysparm_stack', 'no');
+   url.addParam('sysparm_table', g_form.getTableName());
+   url.addParam('sysparm_document', id);
+   var w = getTopWindow();
+   w.open(url.getURL(), 'show_workflow_context', 950, 700, '', false, false);
+}
+]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-11 21:02:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a29cb3f9134632008ac858a12244b0b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Workflow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_update_name>sys_ui_action_a29cb3f9134632008ac858a12244b0b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-11 21:02:57</sys_updated_on>
+        <table>x_snc_tenneco_cont_contracts</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="c9d5dbc2130e32008ac858a12244b0bc" sys_domain="global" table="sys_user_role" version="3" view="tenneco">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:45</sys_created_on>
+            <sys_id>32e51fc2130e32008ac858a12244b06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user_role" sys_domain="global" view="c1d51bc2130e32008ac858a12244b09c">c9d5dbc2130e32008ac858a12244b0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>suffix</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:45</sys_created_on>
+            <sys_id>b2e51fc2130e32008ac858a12244b06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user_role" sys_domain="global" view="c1d51bc2130e32008ac858a12244b09c">c9d5dbc2130e32008ac858a12244b0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:45</sys_created_on>
+            <sys_id>36e51fc2130e32008ac858a12244b06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user_role" sys_domain="global" view="c1d51bc2130e32008ac858a12244b09c">c9d5dbc2130e32008ac858a12244b0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>elevated_privilege</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:45</sys_created_on>
+            <sys_id>b6e51fc2130e32008ac858a12244b06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user_role" sys_domain="global" view="c1d51bc2130e32008ac858a12244b09c">c9d5dbc2130e32008ac858a12244b0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>encryption_context</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:45</sys_created_on>
+            <sys_id>3ae51fc2130e32008ac858a12244b06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user_role" sys_domain="global" view="c1d51bc2130e32008ac858a12244b09c">c9d5dbc2130e32008ac858a12244b0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:45</sys_created_on>
+            <sys_id>bae51fc2130e32008ac858a12244b06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user_role" sys_domain="global" view="c1d51bc2130e32008ac858a12244b09c">c9d5dbc2130e32008ac858a12244b0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:45</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:45</sys_created_on>
+            <sys_id>3ee51fc2130e32008ac858a12244b06a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user_role" sys_domain="global" view="c1d51bc2130e32008ac858a12244b09c">c9d5dbc2130e32008ac858a12244b0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user_role</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-12 12:50:21</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9d5dbc2130e32008ac858a12244b0bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user_role</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+            <sys_update_name>sys_ui_section_c9d5dbc2130e32008ac858a12244b0bc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-12 12:50:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Tenneco" name="tenneco">c1d51bc2130e32008ac858a12244b09c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

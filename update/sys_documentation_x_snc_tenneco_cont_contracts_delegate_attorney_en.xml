@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="delegate_attorney" label="Delegate Attorney" language="en" table="x_snc_tenneco_cont_contracts">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>delegate_attorney</element>
+            <help/>
+            <hint/>
+            <label>Delegate Attorney</label>
+            <language>en</language>
+            <name>x_snc_tenneco_cont_contracts</name>
+            <plural>Delegate Attorneys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-11 18:05:23</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>86541f3513c232008ac858a12244b0e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Delegate Attorney</sys_name>
+            <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_tenneco_cont_contracts_delegate_attorney_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-11 18:05:23</sys_updated_on>
+            <u_translation_log_id/>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

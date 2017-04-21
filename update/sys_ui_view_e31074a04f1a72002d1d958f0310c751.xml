@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>pa_contracts_in_progress</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-19 19:11:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e31074a04f1a72002d1d958f0310c751</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pa_contracts_in_progress</sys_name>
+        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_update_name>sys_ui_view_e31074a04f1a72002d1d958f0310c751</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-19 19:11:09</sys_updated_on>
+        <title>Pa_contracts_in_progress</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

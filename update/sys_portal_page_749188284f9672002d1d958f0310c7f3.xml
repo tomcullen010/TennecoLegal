@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-04-21 12:47:01">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>tom.cullen2</sys_created_by>
+        <sys_created_on>2017-04-19 15:47:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>749188284f9672002d1d958f0310c7f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA All Contracts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_update_name>sys_portal_page_749188284f9672002d1d958f0310c7f3</sys_update_name>
+        <sys_updated_by>tom.cullen2</sys_updated_by>
+        <sys_updated_on>2017-04-19 15:47:49</sys_updated_on>
+        <title>PA All Contracts</title>
+        <user/>
+        <view>pa_all_contracts</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="PA All Contracts">749188284f9672002d1d958f0310c7f3</page>
+                <summary/>
+                <sys_created_by>tom.cullen2</sys_created_by>
+                <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                <sys_id>78d144684f9672002d1d958f0310c70c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tom.cullen2</sys_updated_by>
+                <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">78d144684f9672002d1d958f0310c70c</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>70d144684f9672002d1d958f0310c728</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>749188284f9672002d1d958f0310c7f3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">78d144684f9672002d1d958f0310c70c</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>74d144684f9672002d1d958f0310c70e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">78d144684f9672002d1d958f0310c70c</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>78d144684f9672002d1d958f0310c70d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">78d144684f9672002d1d958f0310c70c</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>78d144684f9672002d1d958f0310c727</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>All Contracts - Status</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">78d144684f9672002d1d958f0310c70c</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>f0d144684f9672002d1d958f0310c70d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">78d144684f9672002d1d958f0310c70c</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>f8d144684f9672002d1d958f0310c70c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>a8fe77d44f9672002d1d958f0310c7ca</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">78d144684f9672002d1d958f0310c70c</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>fcd144684f9672002d1d958f0310c70d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA All Contracts">749188284f9672002d1d958f0310c7f3</page>
+                <summary/>
+                <sys_created_by>tom.cullen2</sys_created_by>
+                <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                <sys_id>7cd144684f9672002d1d958f0310c72b</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tom.cullen2</sys_updated_by>
+                <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">7cd144684f9672002d1d958f0310c72b</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>78d144684f9672002d1d958f0310c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">7cd144684f9672002d1d958f0310c72b</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>7cd144684f9672002d1d958f0310c72c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">7cd144684f9672002d1d958f0310c72b</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>f0d144684f9672002d1d958f0310c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">7cd144684f9672002d1d958f0310c72b</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>f4d144684f9672002d1d958f0310c72c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">7cd144684f9672002d1d958f0310c72b</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>f4d144684f9672002d1d958f0310c72e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>749188284f9672002d1d958f0310c7f3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">7cd144684f9672002d1d958f0310c72b</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>fcd144684f9672002d1d958f0310c72b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>bbfffbd44f9672002d1d958f0310c76b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">7cd144684f9672002d1d958f0310c72b</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>fcd144684f9672002d1d958f0310c72d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>Contracts in Approval</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA All Contracts">749188284f9672002d1d958f0310c7f3</page>
+                <summary/>
+                <sys_created_by>tom.cullen2</sys_created_by>
+                <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                <sys_id>b8d144684f9672002d1d958f0310c728</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>tom.cullen2</sys_updated_by>
+                <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">b8d144684f9672002d1d958f0310c728</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>30d144684f9672002d1d958f0310c72a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">b8d144684f9672002d1d958f0310c728</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>34d144684f9672002d1d958f0310c729</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">b8d144684f9672002d1d958f0310c728</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>34d144684f9672002d1d958f0310c72b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>749188284f9672002d1d958f0310c7f3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">b8d144684f9672002d1d958f0310c728</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>3cd144684f9672002d1d958f0310c728</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>5e8fbbd44f9672002d1d958f0310c78a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">b8d144684f9672002d1d958f0310c728</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>3cd144684f9672002d1d958f0310c72a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>All Current Contracts</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">b8d144684f9672002d1d958f0310c728</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>b4d144684f9672002d1d958f0310c72a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-04-19 08:48:54">b8d144684f9672002d1d958f0310c728</portal_section>
+                        <sys_created_by>tom.cullen2</sys_created_by>
+                        <sys_created_on>2017-04-19 15:48:54</sys_created_on>
+                        <sys_id>b8d144684f9672002d1d958f0310c729</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>tom.cullen2</sys_updated_by>
+                        <sys_updated_on>2017-04-19 15:48:54</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

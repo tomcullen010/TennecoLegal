@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="terms_and_conditions" table="x_snc_tenneco_cont_contracts" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>terms_and_conditions</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NDA -TC</label>
+            <language>en</language>
+            <name>x_snc_tenneco_cont_contracts</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-17 17:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64870a33130632008ac858a12244b0fc</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-17 17:38:57</sys_updated_on>
+            <u_translation_log_id/>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>terms_and_conditions</element>
+            <name>x_snc_tenneco_cont_contracts</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-17 17:37:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0d978a33130632008ac858a12244b003</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>terms_and_conditions</sys_name>
+            <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+            <sys_update_name>sys_choice_x_snc_tenneco_cont_contracts_terms_and_conditions</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-17 17:38:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

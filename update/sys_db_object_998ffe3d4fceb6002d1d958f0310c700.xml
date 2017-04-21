@@ -17,18 +17,18 @@
         <number_ref display_value="CON">c0df727d4fceb6002d1d958f0310c782</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Contract" name="ast_contract">19ecabd4132012008ac858a12244b04c</super_class>
+        <super_class display_value="Contract" name="ast_contract">13e3a97b13102200d70550f82244b0df</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-11 16:35:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>998ffe3d4fceb6002d1d958f0310c700</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Contracts</sys_name>
-        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_package display_value="Legal Contract Request" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_scope display_value="Legal Contract Request">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
         <sys_update_name>sys_db_object_998ffe3d4fceb6002d1d958f0310c700</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-11 16:35:40</sys_updated_on>

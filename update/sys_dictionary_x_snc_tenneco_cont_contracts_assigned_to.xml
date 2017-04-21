@@ -3,7 +3,6 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="assigned_to" table="x_snc_tenneco_cont_contracts">
         <active>true</active>
         <array>false</array>
-        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -44,7 +43,7 @@
         <reference_floats>false</reference_floats>
         <reference_key/>
         <reference_qual>department=7e044ea64f4672002d1d958f0310c76f^EQ</reference_qual>
-        <reference_qual_condition table="sys_user">department=7e044ea64f4672002d1d958f0310c76f^EQ<item display_table="cmn_department" display_value="Legal Contracts" endquery="false" field="department" goto="false" newquery="false" operator="=" or="false" value="7e044ea64f4672002d1d958f0310c76f"/>
+        <reference_qual_condition table="sys_user">department=7e044ea64f4672002d1d958f0310c76f^EQ<item endquery="false" field="department" goto="false" newquery="false" operator="=" or="false" value="7e044ea64f4672002d1d958f0310c76f"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <reference_type/>
@@ -54,17 +53,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-13 12:29:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>e5f950224f8272002d1d958f0310c718</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>779811c5135272001cdf5aef3244b00c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Reviewing Attorney</sys_name>
-        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_package display_value="Legal Contract Request" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_scope display_value="Legal Contract Request">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_tenneco_cont_contracts_assigned_to</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-13 20:15:12</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-04-21 11:25:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

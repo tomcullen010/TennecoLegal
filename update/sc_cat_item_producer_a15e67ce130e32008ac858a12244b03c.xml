@@ -19,7 +19,7 @@
         <icon/>
         <ignore_price>false</ignore_price>
         <image/>
-        <list_price>0</list_price>
+        <list_price>0.00</list_price>
         <location/>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -47,24 +47,23 @@
         <sc_ic_version/>
         <script><![CDATA[producer.redirect = "catalog_home.do?sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4";]]></script>
         <short_description>Submit a contract for legal's review</short_description>
-        <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-12 14:37:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a15e67ce130e32008ac858a12244b03c</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Submit a new contract</sys_name>
-        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_package display_value="Legal Contract Request" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_scope display_value="Legal Contract Request">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
         <sys_update_name>sc_cat_item_producer_a15e67ce130e32008ac858a12244b03c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-12 14:54:56</sys_updated_on>
         <table_name>x_snc_tenneco_cont_contracts</table_name>
-        <template display_value="Tenneco Contract">988fab02134e32008ac858a12244b0de</template>
+        <template display_value=" Contract Template">988fab02134e32008ac858a12244b0de</template>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

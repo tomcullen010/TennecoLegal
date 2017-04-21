@@ -3,7 +3,7 @@
     <sys_ui_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <hint/>
-        <name>Tenneco Contracts</name>
+        <name>Contracts</name>
         <order/>
         <roles>x_snc_tenneco_cont.contracts_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
@@ -13,15 +13,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>63cf727d4fceb6002d1d958f0310c730</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Tenneco Contracts</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Contracts</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+        <sys_package display_value="Legal Contract Request" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+        <sys_scope display_value="Legal Contract Request">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
         <sys_update_name>sys_ui_application_63cf727d4fceb6002d1d958f0310c730</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-11 16:35:39</sys_updated_on>
+        <sys_updated_on>2017-04-21 12:05:05</sys_updated_on>
     </sys_ui_application>
 </record_update>

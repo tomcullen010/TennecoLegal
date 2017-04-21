@@ -37,17 +37,17 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-04-11 16:42:09</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>47414f7d4fceb6002d1d958f0310c712</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Approval History</sys_name>
             <sys_overrides/>
-            <sys_package display_value="Tenneco Contracts" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
+            <sys_package display_value="Legal Contract Request" source="x_snc_tenneco_cont">517f3e3d4fceb6002d1d958f0310c74f</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="Tenneco Contracts">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
+            <sys_scope display_value="Legal Contract Request">517f3e3d4fceb6002d1d958f0310c74f</sys_scope>
             <sys_update_name>sys_ui_section_47414f7d4fceb6002d1d958f0310c712</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-04-11 16:42:09</sys_updated_on>
